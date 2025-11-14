@@ -4,5 +4,7 @@ public class number {
         System.out.println("kumari");
         System.out.println("kumari");
         System.out.println("kumari");
+        System.out.println("kumari");
+        System.out.println("kumari");
     }
 }
